@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Arch Linux)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: dpmm.aux
+The style file: abbrv.bst
+Database file #1: dpmm.bib
+I was expecting a `,' or a `}'---line 26 of file dpmm.bib
+ : 
+ : year         = {2015},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty journal in Blei
+Warning--empty year in Blei
+Warning--empty journal in Huynh15p237
+Warning--empty year in Huynh15p237
+Warning--empty journal in Jp08p1
+Warning--empty journal in teh
+Warning--empty year in teh
+You've used 6 entries,
+            2118 wiz_defined-function locations,
+            521 strings with 4185 characters,
+and the built_in function-call counts, 1315 in all, are:
+= -- 116
+> -- 53
+< -- 0
++ -- 22
+- -- 16
+* -- 68
+:= -- 240
+add.period$ -- 15
+call.type$ -- 6
+change.case$ -- 26
+chr.to.int$ -- 0
+cite$ -- 13
+duplicate$ -- 59
+empty$ -- 113
+format.name$ -- 16
+if$ -- 261
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 6
+newline$ -- 29
+num.names$ -- 12
+pop$ -- 45
+preamble$ -- 1
+purify$ -- 20
+quote$ -- 0
+skip$ -- 41
+stack$ -- 0
+substring$ -- 30
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 22
+warning$ -- 7
+while$ -- 12
+width$ -- 7
+write$ -- 51
+(There was 1 error message)

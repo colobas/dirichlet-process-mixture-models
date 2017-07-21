@@ -1,0 +1,24 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Dirichlet Distribution}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{An introduction}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{The bold0mu mumu -effect}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Dirichlet Process}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Introduction to the concept}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Posterior Inference}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Chinese Restaurant Process and Polya Urn Process}{subsection.3.2}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Stick Breaking Representation}{subsection.3.2}% 9
+\BOOKMARK [2][-]{subsection.3.3}{An intuitive bridge to \(Infinite\) Mixture Models}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Inference in DPMM}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Gibbs Sampling approach}{section.4}% 12
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Gibbs Sampling}{subsection.4.1}% 13
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Collapsed Gibbs Sampling}{subsection.4.1}% 14
+\BOOKMARK [3][-]{subsubsection.4.1.3}{Gibbs Sampling for DPMM}{subsection.4.1}% 15
+\BOOKMARK [2][-]{subsection.4.2}{Variational approach}{section.4}% 16
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Variational Inference and Variational Bayes}{subsection.4.2}% 17
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Streaming Variational Bayes and DPMM}{subsection.4.2}% 18
+\BOOKMARK [1][-]{section.5}{Experiments}{}% 19
+\BOOKMARK [1][-]{section.6}{Suggestions for future research}{}% 20
+\BOOKMARK [2][-]{subsection.6.1}{Code to generate Figure 1}{section.6}% 21
+\BOOKMARK [2][-]{subsection.6.2}{Code to generate Figure 2}{section.6}% 22
+\BOOKMARK [2][-]{subsection.6.3}{Code to generate Figure 3}{section.6}% 23
+\BOOKMARK [2][-]{subsection.6.4}{Code to generate Figure 4}{section.6}% 24

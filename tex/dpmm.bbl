@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{ryanadams}
+R.~Adams.
+\newblock Bayesian nonparametrics tutorial.
+
+\bibitem{Blei}
+D.~M. Blei.
+\newblock Variational inference.
+
+\bibitem{Huynh15p237}
+V.~Huynh, D.~Phung, and S.~Venkatesh.
+\newblock Streaming variational inference for dirichlet process mixture models.
+
+\bibitem{Jp08p1}
+M.~I.~J. M.~J.~Wainwright.
+\newblock Graphical models, exponential families, and variational inference.
+\newblock 2008.
+
+\bibitem{book:870085}
+K.~P. Murphy.
+\newblock {\em Machine Learning: A Probabilistic Perspective}.
+\newblock Adaptive Computation and Machine Learning. The MIT Press, 1 edition,
+  2012.
+
+\bibitem{teh}
+Y.~W. Teh.
+\newblock Dirichlet process.
+
+\end{thebibliography}
